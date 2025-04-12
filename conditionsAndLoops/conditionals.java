@@ -16,6 +16,7 @@ public class conditionals {
             System.out.println(i);
         }
 
+        //sum of first 5 numbers
         int sum=0;
         for(int i=1;i<=5;i++){
             sum+=i;
