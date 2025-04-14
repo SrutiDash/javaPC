@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "conditionsAndLoops.fibonacci",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
