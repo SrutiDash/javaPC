@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
             "name": "fibonacci",
             "request": "launch",
             "mainClass": "conditionsAndLoops.fibonacci",
