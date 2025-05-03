@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "practiceLoop5",
+            "request": "launch",
+            "mainClass": "practiceLoop5",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
             "name": "practiceLoop4",
             "request": "launch",
             "mainClass": "practiceLoop4",
