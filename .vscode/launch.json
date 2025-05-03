@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "practiceLoop4",
+            "request": "launch",
+            "mainClass": "practiceLoop4",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
+            "name": "practiceLoop3",
+            "request": "launch",
+            "mainClass": "practiceLoop3",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
+            "name": "practiceLoop2",
+            "request": "launch",
+            "mainClass": "practiceLoop2",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
+            "name": "practiceLoop1",
+            "request": "launch",
+            "mainClass": "practiceLoop1",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
+            "name": "forLoop",
+            "request": "launch",
+            "mainClass": "forLoop",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
             "name": "practice_2",
             "request": "launch",
             "mainClass": "practice_2",
