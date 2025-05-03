@@ -18,6 +18,8 @@ public class practiceLoop7 {
             }
             num=num/10;
         }
+        System.out.println("Sum of even integers is "+even);
+        System.out.println("Sum of odd integers is "+odd);
         int ans = even + odd;
         System.out.println("sum of even and odd integers are : "+ans);
     }
