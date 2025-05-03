@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "printPattern3",
+            "request": "launch",
+            "mainClass": "printPattern3",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
             "name": "printPattern2",
             "request": "launch",
             "mainClass": "printPattern2",
