@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rightAngledTriangle",
+            "request": "launch",
+            "mainClass": "rightAngledTriangle",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
             "name": "patterns",
             "request": "launch",
             "mainClass": "patterns",
