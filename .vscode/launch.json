@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pattern9",
+            "request": "launch",
+            "mainClass": "pattern9",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
             "name": "pattern8",
             "request": "launch",
             "mainClass": "pattern8",
