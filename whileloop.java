@@ -12,6 +12,6 @@ public class whileloop {
             sum+=j;
             j++;
         }
-        System.out.println("sum = "+sum);
+        System.out.println("sum os 5 natutal numbers are "+sum);
     }
 }
