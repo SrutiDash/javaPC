@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "loop9",
+            "request": "launch",
+            "mainClass": "loop9",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
             "name": "whileLoop1",
             "request": "launch",
             "mainClass": "whileLoop1",
