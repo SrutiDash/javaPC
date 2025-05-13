@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "avgOfSum",
+            "request": "launch",
+            "mainClass": "avgOfSum",
+            "projectName": "java-master_60595da9"
+        },
+        {
+            "type": "java",
             "name": "loop9",
             "request": "launch",
             "mainClass": "loop9",
