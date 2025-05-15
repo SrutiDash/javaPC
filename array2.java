@@ -11,5 +11,7 @@ public class array2 {
         System.out.println(array[1]);
         System.out.println(array[2]);  //printing indexes separately
         System.out.println(Arrays.toString(array)); //printing array using Arrays.toString method
+        //length of the array :
+        System.out.println(array.length);
     }
 }
