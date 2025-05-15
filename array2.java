@@ -13,5 +13,9 @@ public class array2 {
         System.out.println(Arrays.toString(array)); //printing array using Arrays.toString method
         //length of the array :
         System.out.println(array.length);
+
+        //if we already know the value tha has to be stored inside an array we can do something like this :
+        int[] array2 = {1,5,9,3,7};
+        System.out.println(Arrays.toString(array2));
     }
 }
