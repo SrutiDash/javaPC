@@ -7,8 +7,18 @@ public class arrays2 {
         System.out.println(array.length);
         //if we want to display values in each index :
 
-        for(int i=1;i<=array.length;i++){
+        //printing using naive method : array traversal
+        for(int i=0;i<array.length;i++){
             System.out.println(array[i]);
         }
+
+        //in reverse order if we want to get :
+
+        for(int i=arr.length - 1;i>=0;i--){
+            System.out.println(arr[i]);
+        }
+
+        //but we can also do the same by using this :
+
     }
 }
