@@ -5,6 +5,7 @@ public class forEachLoop {
 
         //display the elements of an array using for each loop
 
+        System.out.println("elements of array using for each loop : ");
         //simplest method tho : 
         for(int element : arr){
             System.out.println(element);
