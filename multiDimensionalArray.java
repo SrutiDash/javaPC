@@ -9,5 +9,7 @@ public class multiDimensionalArray {
         marks[0][2] = 113;
         marks[0][3] = 114;
         System.out.println(Arrays.deepToString(marks));
+        System.out.println(Arrays.toString(marks[0]));
+        System.out.println("sruti dash");
     }
 }
