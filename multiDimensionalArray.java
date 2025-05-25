@@ -11,5 +11,6 @@ public class multiDimensionalArray {
         System.out.println(Arrays.deepToString(marks));
         System.out.println(Arrays.toString(marks[0]));
         System.out.println("sruti dash");
+        System.out.println("sruti dash");
     }
 }
