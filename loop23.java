@@ -3,5 +3,8 @@ public class loop23 {
         for(int i=1;i<=5;i++){
             System.out.println("*");
         }
+        for(int i=1;i<=5;i++){
+            System.out.print("* ");
+        }
     }
 }
